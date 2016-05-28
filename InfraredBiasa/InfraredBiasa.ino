@@ -26,4 +26,5 @@ void loop() {
       digitalWrite(ledPin, LOW);
       delay(1000);
       }
+   // cek apakah ada data lagi yg terbaru
 }
