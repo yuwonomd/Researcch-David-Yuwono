@@ -27,4 +27,5 @@ void loop() {
       delay(1000);
       }
    // cek apakah ada data lagi yg terbaru
+   // Pengukuran waktunya perlu yang siginifikan
 }
