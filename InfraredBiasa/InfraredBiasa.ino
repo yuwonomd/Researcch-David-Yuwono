@@ -28,4 +28,5 @@ void loop() {
       }
    // cek apakah ada data lagi yg terbaru
    // Pengukuran waktunya perlu yang siginifikan
+   // Jangan Lupa menghitung percepatannnya
 }
